@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# Infinite loop to prevent termination
+while true; do
+    echo "I won't stop! :)"
+    sleep 1
+done
+
