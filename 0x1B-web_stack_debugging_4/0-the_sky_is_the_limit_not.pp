@@ -12,4 +12,3 @@ exec { 'nginx-restart':
   path    => ['/etc/init.d', '/usr/sbin', '/usr/bin', '/sbin'],
   refreshonly => true,
 }
-
